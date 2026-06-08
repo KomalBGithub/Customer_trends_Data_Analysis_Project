@@ -15,4 +15,5 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## Dataset Used
 <a href="https://github.com/KomalBGithub/Customer_trends_Data_Analysis_Project/blob/main/customer_shopping_behavior.csv">Dataset</a>
 
-## Dashboard Interaction
+## Dashboard 
+![Customer Behavior Dashboard ](https://github.com/KomalBGithub/Customer_trends_Data_Analysis_Project/blob/main/customer_behavior_dashboard%20(1).pbix)
