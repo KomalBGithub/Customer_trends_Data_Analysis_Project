@@ -13,4 +13,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 ## Dataset Used
-<a >Dataset</a>
+<a href="https://github.com/KomalBGithub/Customer_trends_Data_Analysis_Project/blob/main/customer_shopping_behavior.csv">Dataset</a>
+
+## Dashboard Interaction
